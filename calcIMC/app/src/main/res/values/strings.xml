@@ -5,6 +5,7 @@
     <string name="app_btnCalc"> Calcular IMC </string>
     <string name="resultado">Resultado: </string>
     <string name="alerta">
+        Observações:: "\n"
         Quando não calcular o IMC: "\n"
         - Atletas e pessoas muito musculosas: porque não leva em consideração o peso dos músculos. "\n"
         - Idosos: porque não leva em consideração a redução natural dos músculos nessas idades. "\n"
