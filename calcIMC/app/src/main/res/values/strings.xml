@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calcIMC</string>
+    <string name="app_labelPeso"> Peso (kg): Ex. 55 </string>
+    <string name="app_labelAltura"> Altura (m): Ex. 1.59 </string>
+    <string name="app_btnCalc"> Calcular IMC </string>
+    <string name="resultado">Resultado: </string>
+    <string name="alerta">
+        Quando não calcular o IMC: "\n"
+        - Atletas e pessoas muito musculosas: porque não leva em consideração o peso dos músculos. "\n"
+        - Idosos: porque não leva em consideração a redução natural dos músculos nessas idades. "\n"
+        - Durante a gravidez: porque não leva em consideração o crescimento do bebê. "\n"
+    </string>
+</resources>
